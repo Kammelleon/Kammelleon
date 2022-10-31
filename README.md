@@ -1,3 +1,1 @@
-![Octopus product logo](https://github.com/Kamelleon/Kamelleon/blob/main/octopus.PNG)
 
-Something big is coming soon...
